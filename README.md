@@ -1,7 +1,7 @@
 # blogbag
 
 <p align='center'>
-<img src='uploads/images/timg.jpeg'>
+<img src='uploads/images/timg.jpeg' height='240' width='100%'>
 </p>
 
 <p align='center'>
@@ -24,7 +24,7 @@
 ## 📖 目录
 
 
-Latest：[升级到Xcode8.3之后PackageApplication的问题](https://github.com/yuhanle/blogbag/_posts/xcrun-error.md) 
+Latest：[升级到Xcode8.3之后PackageApplication的问题](https://github.com/yuhanle/blogbag/blob/master/_posts/xcrun-error.md) 
 
 
 ---------------------------
