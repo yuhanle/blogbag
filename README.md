@@ -24,7 +24,7 @@
 ## 📖 目录
 
 
-Latest：[升级到Xcode8.3之后PackageApplication的问题](https://github.com/yuhanle/blogbag/_post/xcrun-error.md) 
+Latest：[升级到Xcode8.3之后PackageApplication的问题](https://github.com/yuhanle/blogbag/_posts/xcrun-error.md) 
 
 
 ---------------------------
