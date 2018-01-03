@@ -80,9 +80,9 @@ $ brew install imobiledevice
 $ iproxy 8100 8100 [4c47766e78f9d84e1da55b07d69f2747e9fb4f71]
 ```
 
-使用iproxy --help 可以查到更具体的用法。 这时通过访问http://localhost:8100/status确认WDA是否运行成功。
+使用iproxy --help 可以查到更具体的用法。 这时通过访问`http://localhost:8100/status` 确认WDA是否运行成功。
 
-而inspector的地址是http://localhost:8100/inspector， inspector是用来查看UI的图层，方便写测试脚本用。
+而inspector的地址是`http://localhost:8100/inspector`， inspector是用来查看UI的图层，方便写测试脚本用。
 
 > 注：端口转发后，域名不再是IP 地址，而是你的本机IP或者使用`localhost`+ 端口号
 
