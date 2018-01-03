@@ -9,7 +9,7 @@ date: 2018-01-03 18:30:47
 
 近期，微信[跳一跳外挂](https://github.com/wangshub/wechat_jump_game)火了，看了作者的思路和教程，感觉挺简单，不过在实现（照葫芦画瓢）的过程中，遭遇到不少问题。
  
-![WDA 工作原理](../uploads/images/wda.png) 
+![WDA 工作原理](https://raw.githubusercontent.com/yuhanle/blogbag/master/uploads/images/wda.png) 
 
 其中之一便是，真机调试 WDA，参考 iOS 真机如何安装 [WebDriverAgent · TesterHome](https://testerhome.com/topics/7220)，下面就按照这篇教程，各个击破真机调试WDA 的问题：
 
