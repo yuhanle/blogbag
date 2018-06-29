@@ -1,7 +1,7 @@
 # blogbag
 
 <p align='center'>
-<img src='uploads/images/timg.jpeg' height='240' width='100%'>
+<img src='uploads/images/banner.png' height='200' width='100%'>
 </p>
 
 <p align='center'>
@@ -19,26 +19,22 @@
 
 我会不断更新这个仓库中的文章，如果想要关注可以点 `star`。
 
-
-
 ## 📖 目录
 
-
-Latest：[iOS 真机调试如何安装 WebDriverAgent
-](https://github.com/yuhanle/blogbag/blob/master/_posts/how-to-install-web-driver-agent-on-device.md) 
-
+- [x] [为什么我会选择认识 Flutter ？](https://github.com/yuhanle/blogbag/issues/1)
+- [x] [记录一次简单的逆向](https://github.com/yuhanle/blogbag/issues/2)
 
 ---------------------------
 
 
 ## ❗️ 勘误
 
-+ 如果在文章中发现了问题，欢迎提交 PR 或者 issue，欢迎大神们多多指点🙏🙏🙏
++ 如果在文章中发现了问题，欢迎提交 PR 或者 issue，欢迎大神们多多指点 🙏🙏🙏
 
 
 ## ♥️ 感谢
 
-感谢Star！
+感谢 Star！
 
 
 ## ©️ 转载
