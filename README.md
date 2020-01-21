@@ -21,14 +21,12 @@
 
 - [x] [为什么我会选择认识 Flutter ？](https://github.com/yuhanle/blogbag/issues/1)
 - [x] [记录一次简单的逆向](https://github.com/yuhanle/blogbag/issues/2)
+- [x] [socket-io-swift-code-parse ](https://github.com/yuhanle/blogbag/issues/9)
+- [x] [Use RxFlow Coordinator](https://github.com/yuhanle/blogbag/issues/10)
+- [x] [业务模块化路由探索](https://github.com/yuhanle/blogbag/issues/11)
+- [x] [小步快跑的 APP 发布流程](https://github.com/yuhanle/blogbag/issues/13)
 
 ---------------------------
-
-
-## ❗️ 勘误
-
-+ 如果在文章中发现了问题，欢迎提交 PR 或者 issue，欢迎大神们多多指点~
-
 
 ## ©️ 转载
 
